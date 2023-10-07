@@ -2,8 +2,12 @@
   font-weight: 400;
   font-style: normal; */
 
+ html {
+   background-color: white;
+ }
+
  #navbar {
-   background-color: lightcyan;
+   background-color: rgb(255, 255, 240);
    width: 100%;
    height: 15vh;
    position: fixed;
@@ -41,4 +45,9 @@
    font-family: "tomarik-display-shadow", sans-serif;
    border: 3px solid orange;
    border-radius: 50px;
+ }
+
+
+ main {
+   margin-top: 15.5vh;
  }
