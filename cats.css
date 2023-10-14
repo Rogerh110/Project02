@@ -73,7 +73,7 @@
  }
 
  .meme {
-   width: 15.5vw;
+   width: 19.5%;
    height: 350px;
    display: inline-block;
    overflow: hidden;
@@ -87,7 +87,7 @@
 
  .memegif {
    height: auto;
-   width: auto;
+   width: 20%;
    display: inline-block;
    /* align-self: self-start; */
  }
