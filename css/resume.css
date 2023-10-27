@@ -1,0 +1,36 @@
+section {
+  width: 35vw;
+  margin: -5vh 20vw 0 50vw;
+  border-right: 1px solid orange;
+  padding: 5vh 50px 0 50px;
+  height: 85vh;
+  line-height: 1.5em;
+}
+
+section h2 {
+  margin: 0rem auto;
+  color: rgb(165, 165, 165);
+}
+
+h1 {
+  color: orange;
+}
+
+footer {
+  background-color: whitesmoke;
+  width: 100vw;
+  height: 7.5vh;
+  margin: 10vh auto 0 auto;
+  align-items: center;
+  position: fixed;
+  bottom: 0;
+  z-index: 5;
+  border-top: 1px solid orange;
+  padding-left: 10vw;
+}
+
+footer p,
+footer a {
+  color: lightgray;
+  text-decoration: none;
+}

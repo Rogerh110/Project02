@@ -1,0 +1,47 @@
+section {
+  width: 80vw;
+  height: 80vh;
+  margin: 0 auto;
+  justify-content: center;
+  border-left: 1px solid orange;
+  border-right: 1px solid orange;
+}
+
+.meme {
+  width: 19.5%;
+  height: 350px;
+  display: inline-block;
+  overflow: hidden;
+}
+
+img {
+  height: 100%;
+  width: auto;
+  overflow: hidden;
+}
+
+.memegif {
+  height: auto;
+  width: 20%;
+  display: inline-block;
+  /* align-self: self-start; */
+}
+
+footer {
+  background-color: whitesmoke;
+  width: 100vw;
+  height: 7.5vh;
+  margin: 10vh auto 0 auto;
+  align-items: center;
+  position: fixed;
+  bottom: 0;
+  z-index: 5;
+  border-top: 1px solid orange;
+  padding-left: 10vw;
+}
+
+footer p,
+footer a {
+  color: lightgray;
+  text-decoration: none;
+}
