@@ -23,10 +23,8 @@
  }
 
  #navbar ul {
-   /* margin: 0; */
    list-style: none;
    text-align: center;
-   padding-left: 8vw;
  }
 
  #navbar ul li {
@@ -67,7 +65,6 @@
    color: lightgray;
    text-decoration: none;
    padding-left: 10vw;
-
  }
 
  /* universal styles  */
